@@ -1,3 +1,3 @@
-const exitCode = 0;
+const exitCode = 1;
 
 process.exit(0);
